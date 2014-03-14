@@ -11,6 +11,7 @@
     <?php endif; ?>
 	</li>
 </ol>
+$deneme;
 
 <div class="row">
 <div class="col-md-8">
